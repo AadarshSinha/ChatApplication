@@ -1,6 +1,6 @@
 How to get started =>
 
-1) Clone the repository or you system or simply run the bellow code
+1) Clone the repository on you system or simply run the bellow code
    "git clone git@github.com:AadarshSinha/ChatApplication.git"
 
 2) Now open the terminal on frontend folder and run the command "npm install"
